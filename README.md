@@ -3,7 +3,7 @@
 <p class='dddd'>
   <em>Computer Engineer at <a href="https://uvm.edu.ve/" target='_blank'>UVM</a>
   </br>For inquiries or quote: </br>
-  <a href='https://wa.me/584126804788P' target='_blank'>WhatsApp</a>
+  <a href='https://wa.me/584126804788' target='_blank'>WhatsApp</a>
   <a href='https://t.me/jackyire' target='_blank'>Telegram</a>
   <a href='https://www.linkedin.com/in/jackson-quintero/' target='_blank'>linkedin</a></em>
 </p>
