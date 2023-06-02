@@ -27,6 +27,7 @@
  <code><img height="37" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
   <code><img height="37" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4"></code>
   <code><img height="37" src="https://avatars.githubusercontent.com/u/41077760?s=200&v=4"></code>
+  <code><img height="37" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4"></code>
   
   
 
