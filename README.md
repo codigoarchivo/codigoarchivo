@@ -1,11 +1,12 @@
 <h2> Hi, I'm Jackson Quintero</h2>
-<img align='right' src="https://res.cloudinary.com/jackson-quintero/image/upload/v1667086391/m3lwsn21ifrcmybkwvre.png" width="230">
-<p class='dddd'>
+<!-- <img align='right' src="https://avatars.githubusercontent.com/u/75138506?v=4" width="230"> -->
+<p>
   <em>Computer Engineer at <a href="https://uvm.edu.ve/" target='_blank'>UVM</a>
   </br>For inquiries or quote: </br>
   <a href='https://wa.me/584126804788' target='_blank'>WhatsApp</a>
   <a href='https://t.me/jackyire' target='_blank'>Telegram</a>
   <a href='https://www.linkedin.com/in/jackson-quintero/' target='_blank'>linkedin</a></em>
+  <a href='https://www.tiktok.com/@jackquintero01?is_from_webapp=1&sender_device=pc' target='_blank'>tiktok</a></em>
 </p>
 <hr/>
 <h2> languages and tools:</h2>
