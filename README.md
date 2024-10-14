@@ -19,7 +19,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,sass,css,tailwind,docker,dynamodb,threejs,yarn,vue,vercel,svg,sequelize,stackoverflow,qt,pycharm,prisma,postgres,ps,npm,netlify,jest,heroku,graphql,gitlab,cypress,codepen,bitbucket,git,gcp,django,express,figma,firebase,github,html,idea,java,js,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,ts,vscode&perline=20" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,sass,css,tailwind,docker,dynamodb,threejs,yarn,vue,vercel,svg,sequelize,stackoverflow,qt,pycharm,prisma,postgres,ps,npm,netlify,jest,heroku,graphql,gitlab,cypress,codepen,bitbucket,git,gcp,django,express,figma,firebase,github,html,idea,java,js,md,materialui,mongodb,mysql,nextjs,nodejs,postman,cloudflare,githubactions,kali,pinia,vite,py,react,redux,ts,vscode&perline=20" />
   </a>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
