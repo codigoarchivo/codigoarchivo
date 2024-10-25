@@ -20,7 +20,7 @@
         <a href='https://t.me/jackyire' target='_blank'>Telegram</a>
         <a href='https://www.linkedin.com/in/jackson-quintero/' target='_blank'>linkedin</a>
         <a href='https://www.tiktok.com/@jackquintero01' target='_blank'>tiktok</a>
-        <a href='https://www.codigoarchivo.com/' target='_blank'>Web</a>
+        <a href='https://www.devscriptmusic.com/' target='_blank'>Web</a>
     </p>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <div id="user-content-toc">
