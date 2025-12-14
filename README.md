@@ -1,9 +1,7 @@
-<h1> Backend Developer | JavaScript | TypeScript | Python | Passionate about Frontend</h2>
+<h1> Backend Developer | JavaScript | TypeScript | Python | Java | Passionate about Frontend</h2>
     <p>
         <strong>
-            Full Stack Software Developer with over 5 years of experience building web applications. Expert in
-            JavaScript, TypeScript and Python, and constantly expanding my skills in Java. Passionate about turning
-            ideas into code and creating innovative solutions that simplify people's lives.
+            Full Stack Software Developer with over 5 years of experience building web applications. Expert in JavaScript, TypeScript, Python, and Java,             with a proven track record of delivering robust and scalable solutions. Passionate about turning ideas into code and creating innovative applications that simplify people's lives.
         </strong>
     </p>
     <h2>
