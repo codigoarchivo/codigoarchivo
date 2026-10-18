@@ -1,4 +1,4 @@
-<h1>Backend developer and frontend enthusiast | Full-stack developer | JavaScript | TypeScript | Python | Java</h1>
+<h1> Full-Stack Developer at Valiant Design Studio | Interactive HTML5 Ads amp; Creative Tools | JavaScript · TypeScript · Python · Java | AI-Assisted Development</h1>
     <p>
         <strong>
            Full-Stack Developer at Valiant Design Studio | Interactive HTML5 Ads amp; Creative Tools | JavaScript · TypeScript · Python · Java | AI-Assisted Development,             with a proven track record of delivering robust and scalable solutions. Passionate about turning ideas into code and creating innovative applications that simplify people's lives.
