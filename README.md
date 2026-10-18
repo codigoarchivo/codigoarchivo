@@ -1,7 +1,7 @@
 <h1>Backend developer and frontend enthusiast | Full-stack developer | JavaScript | TypeScript | Python | Java</h1>
     <p>
         <strong>
-            Full Stack Software Developer with over 5 years of experience building web applications. Expert in JavaScript, TypeScript, Python, and Java,             with a proven track record of delivering robust and scalable solutions. Passionate about turning ideas into code and creating innovative applications that simplify people's lives.
+           Full-Stack Developer at Valiant Design Studio | Interactive HTML5 Ads amp; Creative Tools | JavaScript · TypeScript · Python · Java | AI-Assisted Development,             with a proven track record of delivering robust and scalable solutions. Passionate about turning ideas into code and creating innovative applications that simplify people's lives.
         </strong>
     </p>
     <h2>
