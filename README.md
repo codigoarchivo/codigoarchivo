@@ -1,7 +1,7 @@
 <h1> Full-Stack Developer at Valiant Design Studio | Interactive HTML5 Ads amp; Creative Tools | JavaScript · TypeScript · Python · Java | AI-Assisted Development</h1>
     <p>
         <strong>
-           Full-Stack Developer at Valiant Design Studio | Interactive HTML5 Ads amp; Creative Tools | JavaScript · TypeScript · Python · Java | AI-Assisted Development,             with a proven track record of delivering robust and scalable solutions. Passionate about turning ideas into code and creating innovative applications that simplify people's lives.
+           Computer Engineer with experience in frontend and backend web application development. I work with JavaScript, TypeScript, and Python, integrating user interfaces, APIs, and databases. I currently contribute to the development of an HTML5 interactive advertising editor, focusing on design modules, publishing, cross-browser compatibility, and performance.
         </strong>
     </p>
     <h2>
